@@ -1,0 +1,10 @@
+# 忽略model下的所有模型参数文件
+model/
+# 忽略Pycharm项目文件
+.idea/
+# 忽略__pycache__文件
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+*.env
